@@ -1,0 +1,10 @@
+.pirate ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.pirate ul li {
+  flex: 1;
+}
+
